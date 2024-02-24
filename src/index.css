@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "InriaSans-Bold";
+  src: url("font/InriaSans-Regular.ttf");
+}
+@font-face {
+    font-family: "vazir";
+    src: url("font/Vazirmatn-Regular.ttf");
+  }
+  @font-face {
+    font-family: "vazir-b";
+    src: url("font/Vazirmatn-ExtraBold.ttf");
+  }
+    
